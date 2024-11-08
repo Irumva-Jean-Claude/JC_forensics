@@ -14,7 +14,7 @@ window.onscroll = () => {
 
 const chapterSlideCounts = [9, 10, 11,1,7,1];
 
-let currentChapter = 3;
+let currentChapter = 0;
 let currentSlide = 0;
 
 // Function to open a chapter
